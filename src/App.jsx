@@ -32,6 +32,7 @@ function App() {
     </form>
 
     <h2>{location.lat}</h2>
+    <h2>{location.lon}</h2>
       {/* a form with an input for the user to search */}
       {/* information about the location saved in state */}
     </>
